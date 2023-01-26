@@ -16,11 +16,11 @@ int NumberTwoT2 = Convert.ToInt32(Console.ReadLine());
 
 if (NumberOneT2>NumberTwoT2)
 {
-    System.Console.WriteLine("a  = "+ NumberOneT2 + "b = "+ NumberTwoT2+" -> Max = "+ NumberOneT2 );
+    System.Console.WriteLine("a  = "+ NumberOneT2 + "b = "+ NumberTwoT2+" -> Max = "+ NumberOneT2 + " Min = "+NumberTwoT2);
     }
 else
 {
-    System.Console.WriteLine("a  = "+ NumberOneT2 + " b = "+ NumberTwoT2+" -> Max = "+ NumberTwoT2 );
+    System.Console.WriteLine("a  = "+ NumberOneT2 + " b = "+ NumberTwoT2+" -> Max = "+ NumberTwoT2 + " Min = "+NumberOneT2);
     }
 
 
