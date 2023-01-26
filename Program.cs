@@ -36,6 +36,8 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
+System.Console.WriteLine("Задача 4");
+
 System.Console.WriteLine("Введите число 1");
 
 int numberOneT4 = Convert.ToInt32(Console.ReadLine());
