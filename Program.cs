@@ -36,15 +36,15 @@ else
 
 System.Console.WriteLine("Задача 4");
 
-System.Console.WriteLine("Введите число 1");
+System.Console.Write("Введите число 1: ");
 
 int numberOneT4 = Convert.ToInt32(Console.ReadLine());
 
-System.Console.WriteLine("Введите число 2");
+System.Console.Write("Введите число 2: ");
 
 int numberTwoT4 = Convert.ToInt32(Console.ReadLine());
 
-System.Console.WriteLine("Введите число 3");
+System.Console.Write("Введите число 3: ");
 
 int numberThreeT4 = Convert.ToInt32(Console.ReadLine());
 
@@ -113,7 +113,7 @@ else
 // число (N), а на выходе показывает все чётные числа от 1 до N.
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
->>>>>>> TaskEight
+
 
 System.Console.WriteLine("Задание 8");
 
